@@ -73,6 +73,10 @@ Computer Architecture • RTL/VLSI • Embedded Systems • Robotics
 
 ---
 
+<p align="center"> <a href="https://www.linkedin.com/in/sayan-mondal-531276359"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:sayanmondal221b@gmail.com"> <img src="https://img.shields.io/badge/Email-Sayan-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+
+---
+
 <p align="center">
   <em>Understand it. Build it. Verify it.</em>
 </p>
