@@ -13,8 +13,8 @@ Computer Architecture • RTL/VLSI • Embedded Systems • Robotics
 
 ### 🧠 Interests
 
-* Computer Architecture & CPU Design
-* RTL Design & VLSI
+* Computer Architecture
+* Digital VLSI
 * Embedded Systems
 * Systems Programming
 * Robotics & Autonomous Systems
