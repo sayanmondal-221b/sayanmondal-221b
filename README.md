@@ -41,7 +41,6 @@ Computer Architecture • RTL/VLSI • Embedded Systems • Robotics
 
 #### 🤖 Embedded & Robotics
 
-![PyMAVLink](https://img.shields.io/badge/PyMAVLink-333333?style=flat)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat\&logo=opencv\&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat\&logo=raspberrypi\&logoColor=white)
 ![ROS%202](https://img.shields.io/badge/ROS2-22314E?style=flat\&logo=ros\&logoColor=white)
