@@ -1,4 +1,4 @@
-# `Sayan Mondal`
+<h1 align="center">Sayan Mondal</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Electronics+%26+Telecommunications+Engineering;RTL+%7C+Computer+Architecture+%7C+Systems;Embedded+Systems+%7C+Robotics+%7C+Autonomy;Building+systems+from+bits+to+machines." />
@@ -48,39 +48,6 @@ I'm an **Electronics & Telecommunications Engineering student at Jadavpur Univer
 I like understanding systems from the bottom up — from **digital logic and RTL**, to **processors and instruction sets**, to **embedded and autonomous systems**.
 
 ---
-
-## `interests`
-
-```text
-┌──────────────────────────────────────────────┐
-│              SYSTEMS & HARDWARE              │
-├──────────────────────────────────────────────┤
-│                                              │
-│  Computer Architecture                       │
-│       ├── CPU Design                         │
-│       ├── Instruction Sets                   │
-│       ├── Datapaths & Control                │
-│       └── Memory Systems                     │
-│                                              │
-│  Digital Design                              │
-│       ├── RTL                                │
-│       ├── FSMs                               │
-│       ├── Verification                       │
-│       └── FPGA                               │
-│                                              │
-│  Embedded Systems                            │
-│       ├── C / C++                            │
-│       ├── Low-level Programming              │
-│       └── Hardware Interfaces                │
-│                                              │
-│  Autonomous Systems                          │
-│       ├── Robotics                           │
-│       ├── Computer Vision                    │
-│       ├── UAVs                               │
-│       └── Communication                      │
-│                                              │
-└──────────────────────────────────────────────┘
-```
 
 ### Areas I'm particularly interested in
 
