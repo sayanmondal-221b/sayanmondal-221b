@@ -3,16 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Electronics+%26+Telecommunications+Engineering;RTL+%7C+Computer+Architecture+%7C+Systems;Embedded+Systems+%7C+Robotics+%7C+Autonomy;Building+systems+from+bits+to+machines." />
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sayan-mondal-531276359">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sayanmondal221b@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ## `whoami`
@@ -139,7 +129,7 @@ $ ./how-i-learn.sh
 
 ---
 
-## `connect`
+## `lets_connect`
 
 <p align="center">
 
