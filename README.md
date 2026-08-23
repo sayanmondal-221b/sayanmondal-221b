@@ -44,7 +44,10 @@ Computer Architecture • RTL/VLSI • Embedded Systems • Robotics
 ![PyMAVLink](https://img.shields.io/badge/PyMAVLink-333333?style=flat)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat\&logo=opencv\&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat\&logo=raspberrypi\&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat\&logo=ros\&logoColor=white)
+![ROS%202](https://img.shields.io/badge/ROS2-22314E?style=flat\&logo=ros\&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 
 #### 📊 Python / Data & ML
 
