@@ -118,7 +118,7 @@ $ ./how-i-learn.sh
 [01] Understand the abstraction
 [02] Break the system down
 [03] Build from first principles
-[04] Simulate / test
+[04] Simulate / Test
 [05] Debug
 [06] Optimize
 [07] Repeat
