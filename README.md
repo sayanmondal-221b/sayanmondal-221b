@@ -110,7 +110,7 @@ approach:
 
 ---
 
-## `engineering_mindset`
+## `how_i_learn`
 
 ```bash
 $ ./how-i-learn.sh
